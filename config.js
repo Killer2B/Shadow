@@ -45,11 +45,11 @@ global.mes = d.toLocaleDateString('en', {month: 'long'});
 global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nBOBIZA`;
-global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
-global.md = 'https://instagram.com/noureddine_ouafy';
-global.mysticbot = 'https://instagram.com/noureddine_ouafy';
+global.wm2 = `${dia} ${fecha}\nSHADOW`;
+global.gt = 'SHADOW';
+global.mysticbot = 'SHADOW';
+global.md = 'https://instagram.com/biroyel934';
+global.mysticbot = 'instagram.com/biroyel934';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
