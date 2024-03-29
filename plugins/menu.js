@@ -23,7 +23,7 @@ let tags = {
 const defaultMenu = {
   before: `مرحبا 👋. 
 
-┏━━ Welocom  *%name*
+┏━━ Welcome  *%name*
 👥 *Total user:* %totalreg 
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
@@ -137,8 +137,8 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: 'SHADOW BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://images2.alphacoders.com/132/1320391.png',
+body: "تابع صاحب البوت 💖",
+thumbnailUrl: 'https://telegra.ph/file/0012eab6731543cc5c7a4.jpg',
 sourceUrl: 'https://instagram.com/biroyel934',
 mediaType: 1,
 renderLargerThumbnail: true
