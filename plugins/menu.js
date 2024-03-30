@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'SHADOW BOT ♥',
 body: "تابع صاحب البوت 💖",
-thumbnailUrl: 'https://telegra.ph/file/0012eab6731543cc5c7a4.jpg',
+thumbnailUrl: 'https://telegra.ph/file/f7eb8fff785f65fb7b018.mp4',
 sourceUrl: 'https://instagram.com/biroyel934',
 mediaType: 1,
 renderLargerThumbnail: true
