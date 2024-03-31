@@ -138,8 +138,8 @@ contextInfo: {
 externalAdReply: {
 title: 'SHADOW BOT ♥',
 body: "تابع صاحب البوت 💖",
-thumbnailUrl: 'https://telegra.ph/file/f7eb8fff785f65fb7b018.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+thumbnailUrl: 'https://telegra.ph/file/0012eab6731543cc5c7a4.jpg',
+sourceUrl: 'https://instagram.com/biroyel934',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
