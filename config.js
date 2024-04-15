@@ -10,15 +10,15 @@ import moment from 'moment-timezone';
 global.botnumber = ["+48699543540"];
 
 global.owner = [
-  ['201558880163', 'AX', true],
+  ['+201558880163', 'AX', true],
 
-  ['201558880163','AX', true],
-  ['201558880163'],
-  ['201558880163']
+  ['+201558880163','AX', true],
+  ['+201558880163'],
+  ['+201558880163']
 ];
 
-global.suittag = ['201558880163'];
-global.prems = ['201558880163'];
+global.suittag = ['+201558880163'];
+global.prems = ['+201558880163'];
 
 global.packname = 'Shadow Bot';
 global.author = 'Shadow';
