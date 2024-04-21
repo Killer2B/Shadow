@@ -146,6 +146,12 @@ global.conn = makeWASocket(connectionOptions);
     if (pairingCode && !conn.authState.creds.registered) {
         if (useMobile) throw new Error('Can t use a pairing code with the Mobile API')
 
+      if (typeof phoneNumber === 'string') {
+    numeroTelefono = phoneNumber.replace(/[^0-9]/g, '');
+} else {
+    // Handle the case where phoneNumber is not a string, e.g., assign a default value or log an error
+}
+
         let numeroTelefono
         if (!!phoneNumber) {
             numeroTelefono = phoneNumber.replace(/[^0-9]/g, '')
